@@ -1,1 +1,4 @@
 acc.json
+.gitignore
+.vscode
+geckodriver.log

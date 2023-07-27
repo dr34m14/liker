@@ -4,15 +4,6 @@ import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-
-
-
-
-
-
-
-
-
 @click.command()
 @click.option("--link",prompt="target link:",help="target post link")
 @click.option("--write",prompt="add email and pass in acc.json:",help="add email and pass in acc.json")
